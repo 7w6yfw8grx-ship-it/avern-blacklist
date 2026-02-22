@@ -9,13 +9,13 @@
     "CafePOS Air": {
       "1.0.0": "current"
     },
-     "Free SCO": {
+    "Free SCO": {
       "1.0.0": "current"
     }
   },
   "messages": {
     "current": "You are running the latest version.",
     "deprecated": "A newer version is available. This version will continue to run.",
-    "blocked": "This version is no longer supported. Please update to continue using this product.",
+    "blocked": "This version is no longer supported. Please update to continue using this product."
   }
 }
