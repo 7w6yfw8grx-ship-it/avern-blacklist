@@ -1,7 +1,7 @@
 {
   "products": {
     "ProVisionBoard": {
-      "1.0.0": "deprecated",
+      "1.0.0": "blocked",
       "1.1.0": "current"
     },
     "SecureEAS": {
