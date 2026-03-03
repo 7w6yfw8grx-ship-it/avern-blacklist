@@ -2,6 +2,7 @@
   "products": {
     "ProVisionBoard": {
       "1.0.0": "blocked"
+      "1.0.1": "current"
     },
     "SecureEAS": {
       "1.0.0": "current"
